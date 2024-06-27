@@ -1,0 +1,5 @@
+# FAIR Principles
+
+The purpose of good data documentation is to facilitate knowledge exchange. The FAIR principles [@Wilkinson2016-lh] are the guidelines for every form of research output, and in making data available to others.
+
+Every research group should apply these principles when structuring and preserving their data or other research outputs. Making data FAIR involves many aspects of data collection, organization, availability and storage. FAIR does not mean open or public, it means that there is documentation about how access to the data can be achieved.
