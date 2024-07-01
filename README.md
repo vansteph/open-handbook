@@ -34,6 +34,7 @@ If you like commandlines and need to install Quarto, [check out the Quarto websi
 ## Contributors
 
 
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -47,31 +48,37 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 <a href="https://github.com/chartgerink">
 <img src="https://avatars.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/>
 </a><br>
-<a href="https://github.com/ubvu/open-handbook/commits?author=chartgerink">chartgerink</a>
-</td>
-<td align="center">
-<a href="https://github.com/Jolien-S">
-<img src="https://avatars.githubusercontent.com/u/142608800?v=4" width="100px;" alt=""/>
-</a><br>
-<a href="https://github.com/ubvu/open-handbook/commits?author=Jolien-S">Jolien-S</a>
+<a href="https://github.com/vansteph/open-handbook/commits?author=chartgerink">chartgerink</a>
 </td>
 <td align="center">
 <a href="https://github.com/Elisa-on-GitHub">
 <img src="https://avatars.githubusercontent.com/u/78543806?v=4" width="100px;" alt=""/>
 </a><br>
-<a href="https://github.com/ubvu/open-handbook/commits?author=Elisa-on-GitHub">Elisa-on-GitHub</a>
-</td>
-<td align="center">
-<a href="https://github.com/Karvovskaya">
-<img src="https://avatars.githubusercontent.com/u/44666630?v=4" width="100px;" alt=""/>
-</a><br>
-<a href="https://github.com/ubvu/open-handbook/commits?author=Karvovskaya">Karvovskaya</a>
+<a href="https://github.com/vansteph/open-handbook/commits?author=Elisa-on-GitHub">Elisa-on-GitHub</a>
 </td>
 <td align="center">
 <a href="https://github.com/jhrudey">
 <img src="https://avatars.githubusercontent.com/u/35424147?v=4" width="100px;" alt=""/>
 </a><br>
-<a href="https://github.com/ubvu/open-handbook/commits?author=jhrudey">jhrudey</a>
+<a href="https://github.com/vansteph/open-handbook/commits?author=jhrudey">jhrudey</a>
+</td>
+<td align="center">
+<a href="https://github.com/Jolien-S">
+<img src="https://avatars.githubusercontent.com/u/142608800?v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/vansteph/open-handbook/commits?author=Jolien-S">Jolien-S</a>
+</td>
+<td align="center">
+<a href="https://github.com/Karvovskaya">
+<img src="https://avatars.githubusercontent.com/u/44666630?v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/vansteph/open-handbook/commits?author=Karvovskaya">Karvovskaya</a>
+</td>
+<td align="center">
+<a href="https://github.com/vansteph">
+<img src="https://avatars.githubusercontent.com/u/102951422?v=4" width="100px;" alt=""/>
+</a><br>
+<a href="https://github.com/vansteph/open-handbook/commits?author=vansteph">vansteph</a>
 </td>
 </tr>
 
@@ -80,4 +87,5 @@ All contributions to this project are gratefully acknowledged using the [`allcon
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
